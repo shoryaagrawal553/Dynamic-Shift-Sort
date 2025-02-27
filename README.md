@@ -4,6 +4,11 @@ Welcome to **Dynamic Shift Sort**! This repository documents a unique sorting al
 
 ---
 
+## 📝 Description
+Dynamic Shift Sort is a novel sorting algorithm that arranges elements by dynamically shifting larger values forward instead of following traditional sorting patterns. Unlike Bubble Sort or Selection Sort, it utilizes a unique approach to comparison and swapping, potentially offering different performance characteristics under various conditions.
+
+---
+
 ## 📂 Overview
 This repository includes:
 
