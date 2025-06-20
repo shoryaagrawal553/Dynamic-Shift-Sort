@@ -4,7 +4,7 @@ using namespace std;
 // Dynamic Shift Sort Algorithm
 void dynamicShiftSort(int arr[], int size)  
 {
-    // Iterate over each element in the array
+    // Iterate over each element in the array 
     for (int i = 0; i < size - 1; i++)
     {
         // Compare the current element with the rest of the elements
