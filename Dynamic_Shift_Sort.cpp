@@ -16,7 +16,7 @@ void dynamicShiftSort(int arr[], int size)
                 swap(arr[i], arr[j]);
             }
         }
-    }
+    } 
 }
 
 int main() 
