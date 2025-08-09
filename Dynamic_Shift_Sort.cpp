@@ -1,5 +1,5 @@
 #include <iostream>  
-using namespace std;    
+using namespace std;     
      
 // Dynamic Shift Sort Algorithm
 void dynamicShiftSort(int arr[], int size)   
